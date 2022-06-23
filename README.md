@@ -1,8 +1,8 @@
 # Gra FPS Unity
 
-## Opis projektu
-
 Gra jest pierwszoosobową strzelanką 3D. Gracz wciela się w postać, która dąży do zniszczenia ukrytej bazy robotów. 
+
+## Opis projektu
 
 Rozgrywka jest podzielona na dwa obszary: Pustynny – etap wejścia do ukrytej bazy; Pomieszczeniowy – baza robotów. By osiągnąć swój cel, gracz pcha ładunek z bombą po wyznaczonej trasie. Przeciwnicy (roboty) starają się temu zapobiec atakując gracza. Po jego śmierci, gracz zostaje teleportowany na początek mapy. Do dyspozycji są 3 rodzaje broni – karabin, strzelba, pistolet. Przeciwnicy są wyposażeni w karabin lub strzelbę. W celu uzupełnienia stanu zdrowia gracza – na mapie w niektórych miejscach są rozmieszczone apteczki. Strzelając z broni, jest zużywana amunicja. Więcej amunicji można znaleźć w paczkach z amunicją, tak samo jak z apteczkami. Apteczki jak i amunicja po zebraniu, ponownie pojawiają się w tym samym miejscu po pewnym czasie. Gra jest w języku angielskim.
 
