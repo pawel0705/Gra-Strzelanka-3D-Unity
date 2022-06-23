@@ -76,8 +76,19 @@ Celem gracza jest dopchanie ładunku z bombą na koniec mapy i jego wysadzenie. 
 
 ## Wygląd gry
 
-![screenshot](/images/Screenshot_1.png)
-![screenshot](/images/Screenshot_2.png)
-![screenshot](/images/Screenshot_3.png)
-![screenshot](/images/Screenshot_4.png)
-![screenshot](/images/Screenshot_5.png)
+<p align="center">
+<br>
+<img src="/images/Screenshot_1.png" width="50%"/>
+<img src="/images/Screenshot_2.png" width="50%"/>
+<img src="/images/Screenshot_3.png" width="50%"/>
+<img src="/images/Screenshot_4.png" width="50%"/>
+<img src="/images/Screenshot_5.png" width="50%"/>
+</p>
+
+## Współautor
+Projekt współtworzony był wraz z:
+- [Adr1an000](https://github.com/Adr1an000)
+- [dawidmusialik898](https://github.com/dawidmusialik898)
+
+[Oryginalne repozytorium projektu](https://github.com/Adr1an000/Projekt-GK)
+
