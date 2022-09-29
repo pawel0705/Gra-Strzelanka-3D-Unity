@@ -78,11 +78,11 @@ Celem gracza jest dopchanie ładunku z bombą na koniec mapy i jego wysadzenie. 
 
 <p align="center">
 <br>
-<img src="/images/Screenshot_1.png" width="50%"/>
-<img src="/images/Screenshot_2.png" width="50%"/>
-<img src="/images/Screenshot_3.png" width="50%"/>
-<img src="/images/Screenshot_4.png" width="50%"/>
-<img src="/images/Screenshot_5.png" width="50%"/>
+<img src="/images/Screenshot_1.png" width="70%"/>
+<img src="/images/Screenshot_2.png" width="70%"/>
+<img src="/images/Screenshot_3.png" width="70%"/>
+<img src="/images/Screenshot_4.png" width="70%"/>
+<img src="/images/Screenshot_5.png" width="70%"/>
 </p>
 
 ## Współautor
